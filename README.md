@@ -1,2 +1,0 @@
-# WREN12S
-DitroniX WREN 12S SDK v2
