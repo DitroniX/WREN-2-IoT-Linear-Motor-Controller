@@ -57,3 +57,7 @@ Waiting for Controller Input
 
 Main DC Power Fail or Safety Fuse Blown.  Shutting Down ESP. Reset device to Wake Up
 ~~~
+
+Further product and Wiki information maybe found on our website https://ditronix.net
+
+Tags: Accessibility, Amazon Alexa, DC Motor Controller, Designed and Made in Great Britain, Developer Community, DitroniX, Electric Recliner, Epressif, ESP-12S, ESP8266, Google Home, Hacker Projects, Home Automation, Home Cinema, IoT, Linear DC Motor Controller, Mobility, Mobility Chair Controller, MQTT, Open Source, Riser Recliner, SDK, SDK Developer Community, Smart Device, Smart Recliner, STEM, Voice Commands, Voice Controlled Switch, Wifi Remote Control, Wireless Remote Control, WREN
